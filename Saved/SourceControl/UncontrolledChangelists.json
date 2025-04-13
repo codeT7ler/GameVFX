@@ -10,7 +10,16 @@
 				"C:/GitHubFiles/GameVFX/GameVFX/Content/GameVFX/NiagaraSystem/NE_Lightning.uasset",
 				"C:/GitHubFiles/GameVFX/GameVFX/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/TJ/9SP8BGT4L8S3414YFWC9IF.uasset",
 				"C:/GitHubFiles/GameVFX/GameVFX/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/I7/4M9Y0B8XEZWO49P9MJIGXF.uasset",
-				"C:/GitHubFiles/GameVFX/GameVFX/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/2/R9/WIK2L0L5NDSA3DC4YQGPNO.uasset"
+				"C:/GitHubFiles/GameVFX/GameVFX/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/2/R9/WIK2L0L5NDSA3DC4YQGPNO.uasset",
+				"C:/GitHubFiles/GameVFX/GameVFX/Content/GameVFX/Materials/MusicNote_01.uasset",
+				"C:/GitHubFiles/GameVFX/GameVFX/Content/GameVFX/Materials/M_MusicNote_01.uasset",
+				"C:/GitHubFiles/GameVFX/GameVFX/Content/GameVFX/NiagaraSystem/NE_MusicalNote_01.uasset",
+				"C:/GitHubFiles/GameVFX/GameVFX/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/GitHubFiles/GameVFX/GameVFX/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/GitHubFiles/GameVFX/GameVFX/Content/GameVFX/Meshs/Dish01.uasset",
+				"C:/GitHubFiles/GameVFX/GameVFX/Content/ThirdPerson/Input/Actions/IA_SpawnVFX.uasset",
+				"C:/GitHubFiles/GameVFX/GameVFX/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/PL/WLWAP999PN4F52I5OYSOLJ.uasset",
+				"C:/GitHubFiles/GameVFX/GameVFX/Content/GameVFX/Meshs/standardSurface1.uasset"
 			]
 		}
 	]
