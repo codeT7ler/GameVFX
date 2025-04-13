@@ -6,7 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/GitHubFiles/GameVFX/GameVFX/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/GitHubFiles/GameVFX/GameVFX/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/MQ/XQN3OTSB745W3I6GYVR7AR.uasset"
+				"C:/GitHubFiles/GameVFX/GameVFX/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/MQ/XQN3OTSB745W3I6GYVR7AR.uasset",
+				"C:/GitHubFiles/GameVFX/GameVFX/Content/GameVFX/NiagaraSystem/NE_Lightning.uasset",
+				"C:/GitHubFiles/GameVFX/GameVFX/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/TJ/9SP8BGT4L8S3414YFWC9IF.uasset",
+				"C:/GitHubFiles/GameVFX/GameVFX/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/I7/4M9Y0B8XEZWO49P9MJIGXF.uasset",
+				"C:/GitHubFiles/GameVFX/GameVFX/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/2/R9/WIK2L0L5NDSA3DC4YQGPNO.uasset"
 			]
 		}
 	]
